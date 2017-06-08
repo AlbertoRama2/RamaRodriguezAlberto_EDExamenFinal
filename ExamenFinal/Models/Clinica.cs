@@ -219,7 +219,7 @@ namespace ExamenFinal.Models
                     Console.WriteLine("No me a dado tiempo profe");
                     break;
                 case 4://Salir del programa
-                    Console.WriteLine("Hasta la proxima");
+                    Console.WriteLine("Hasta la proxima...");
                     break;
 
             }
